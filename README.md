@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 Recent project [https://commercejn.herokuapp.com/](https://commercejn.herokuapp.com/)
+- 👨‍💻 My temporary portfolio [https://portfolio-neil.netlify.app/](https://portfolio-neil.netlify.app/)
 
 - 💬 Ask me about **Design and stuff**
 
