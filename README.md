@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boidg&label=Profile%20views&color=0e75b6&style=flat" alt="boidg" /> </p>
 
-- 🌱 I’m currently learning **React Js**
-
 - 👨‍💻 My temporary portfolio [https://portfolio-neil.netlify.app/](https://portfolio-neil.netlify.app/)
 
-- 💬 Ask me about **Design and stuff**
+- 💬 Ask me about **Web Development and Design**
 
 - 📫 How to reach me **alex.neil1011@gmail.com**
 
