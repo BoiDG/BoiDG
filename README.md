@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boidg&label=Profile%20views&color=0e75b6&style=flat" alt="boidg" /> </p>
 
-- 👨‍💻 My temporary portfolio [https://portfolio-neil.netlify.app/](https://portfolio-neil.netlify.app/)
+- 👨‍💻 My portfolio [https://portfolio-neil.netlify.app/](https://portfolio-neil.netlify.app/)
 
 - 💬 Ask me about **Web Development and Design**
 
