@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neil Alexander</h1>
-<h3 align="center">A junior frontend developer from Indonesia</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://commercejn.herokuapp.com/static/media/BG2.0d23855992caf7b59e83.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boidg&label=Profile%20views&color=0e75b6&style=flat" alt="boidg" /> </p>
