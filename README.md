@@ -1,15 +1,67 @@
-# Hi, I’m Neil Alexander
+# Hey, I'm Neil Alexander 👋
 
-**Full-stack developer · React, TypeScript, C# and PostgreSQL**
+**Full-Stack Software Engineer | .NET & React | AI Agents & Automation**
 
-I build web applications for teams that handle approvals, tickets, and reporting. Recent work includes role-based approval flows, email-to-ticket intake, and dashboards that apply the same filters to on-screen results and Excel exports.
+I build software that solves real-world problems, from enterprise applications and backend services to personal automation tools and self-hosted infrastructure.
 
-I work across React and Next.js, ASP.NET Core APIs, and PostgreSQL. When something breaks, I like following it from what the user sees through the API to what the database actually saved.
+My core experience is in **C#, ASP.NET Core, React, Next.js, TypeScript, and PostgreSQL**. Outside of work, I experiment with AI coding agents, orchestration systems, and infrastructure that makes software development more efficient.
 
-## Home lab and AI agents
+### 🛠️ What I work with
 
-I run a Proxmox home server, where I spin up virtual machines and try out self-hosted services. I also like experimenting with AI coding agents for exploring codebases, debugging, and testing changes.
+| Area            | Technologies                                                       |
+| --------------- | ------------------------------------------------------------------ |
+| Backend         | C#, .NET, ASP.NET Core, REST APIs, Hangfire                        |
+| Frontend        | React, Next.js, TypeScript, JavaScript                             |
+| Databases       | PostgreSQL, SQL                                                    |
+| Infrastructure  | Docker, Proxmox, Linux, Tailscale                                  |
+| AI & Automation | AI coding agents, agent orchestration, Python, RAG experimentation |
+| Tools           | Git, GitHub, Cursor, Codex CLI, VS Code                            |
 
-## Get in touch
+### 🚀 What I'm building
+
+[**Universal Annotation**](https://github.com/BoiDG/universal-annotation)
+
+A Windows desktop Markdown scratchpad designed for AI-assisted development.
+
+- Capture text and code references through global hotkeys
+- Collect context from different applications into one prompt
+- Integrate with Cursor and VS Code
+- Work locally with offline editing and draft persistence
+
+**Home Lab & AI Agent Experiments**
+
+I run a personal Proxmox server to explore self-hosted applications and AI engineering workflows.
+
+Some areas I'm experimenting with:
+
+- Multi-agent orchestration and coding workflows
+- AI agent memory, observability, and evaluation
+- Self-hosted services and infrastructure monitoring
+- Automation across development tools and personal workflows
+
+### 💼 Professional experience
+
+I work on enterprise web applications involving:
+
+- Workflow automation and role-based approvals
+- Ticketing systems and email integrations
+- Reporting dashboards and data consistency
+- Backend services and scheduled background processing
+- PostgreSQL data operations and API integrations
+
+I enjoy investigating problems end-to-end, from the interface and API to the database and infrastructure.
+
+### 🌱 Currently exploring
+
+- AI engineering and agentic software development
+- Reliable multi-agent systems with human approval workflows
+- Python and open-weight language models
+- Developer productivity tools and infrastructure automation
+
+### 🤝 Connect with me
 
 [Portfolio](https://type-sane.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/neil-alex/) · [Email](mailto:alex.neil1011@gmail.com)
+
+---
+
+*I like building practical tools, experimenting with emerging technologies, and finding better ways to develop software.*
