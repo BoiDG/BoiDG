@@ -41,10 +41,11 @@ Some areas I'm experimenting with:
 
 ### 💼 Professional experience
 
-I work on enterprise web applications involving:
+I develop and maintain production software used nationwide, with experience across automotive and enterprise systems.
 
-- Workflow automation and role-based approvals
-- Ticketing systems and email integrations
+- Logistics, invoicing, and user management
+- Surveys, ticketing systems, and email integrations
+- Business case workflows, process automation, and role-based approvals
 - Reporting dashboards and data consistency
 - Backend services and scheduled background processing
 - PostgreSQL data operations and API integrations
