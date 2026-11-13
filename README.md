@@ -6,12 +6,9 @@ I build web applications for teams that handle approvals, tickets, and reporting
 
 I work across React and Next.js, ASP.NET Core APIs, and PostgreSQL. When something breaks, I like following it from what the user sees through the API to what the database actually saved.
 
-## Selected projects
+## Home lab and AI agents
 
-- **[Prompt Scratchpad](https://github.com/BoiDG/universal-annotation)** — a Windows Markdown editor that lets you capture selected text from other apps, attach screenshots, and assemble a prompt for a coding agent. Built with Python, PySide6, and CodeMirror.
-- **[E-commerce storefront](https://github.com/BoiDG/ecommerce-store) and [admin dashboard](https://github.com/BoiDG/ecommerce-admin)** — a pair of Next.js and TypeScript apps for shopping and store management.
-
-I also experiment with data-driven animation in Three.js.
+I run a Proxmox home server, where I spin up virtual machines and try out self-hosted services. I also like experimenting with AI coding agents for exploring codebases, debugging, and testing changes.
 
 ## Get in touch
 
